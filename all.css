@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.about{
+    background-color: white;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+    /* margin: 20px 20px 40px 20px; */
+    margin: 30px 0px 60px 10px;
+    padding: 20px;
+    height: 93vh;
+    overflow-y: scroll;
+}
+.about h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
