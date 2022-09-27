@@ -100,6 +100,7 @@ fries.addEventListener('click', (e) => {
 reset.addEventListener('click', () => {
      document.getElementsByClassName("pay-text").value = "";
      amount.innerText = 0;
+     style.innerText="";
      
 })
 
